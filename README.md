@@ -4,9 +4,13 @@ This repository serves as a template for creating a Single Page Application (SPA
 
 ## Features
 
-- **React Router**: For handling routing in your SPA.
-- **Shadcn**: A utility-first CSS framework for building custom designs.
-- **TailwindCSS v4**: A highly customizable, low-level CSS framework.
+- **[React Router](https://reactrouter.com/)**: For handling routing in your SPA.
+- **[shadcn/ui](https://ui.shadcn.com/)**: A utility-first CSS framework for building custom designs.
+- **[TailwindCSS v4](https://tailwindcss.com/)**: A highly customizable, low-level CSS framework.
+
+> [!WARNING]
+> Support for TailwindCSS v4 in Shadcn is currently available only in the canary version.
+> https://ui.shadcn.com/docs/tailwind-v4
 
 ## How to Use
 
