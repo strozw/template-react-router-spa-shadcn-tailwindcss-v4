@@ -40,6 +40,6 @@ This repository serves as a template for creating a Single Page Application (SPA
    ```
 
 6. Preview the production build
-  ```sh
-  pnpm run start
-  ```
+   ```sh
+   pnpm run start
+   ```
